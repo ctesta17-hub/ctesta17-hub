@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am graduading in Computer Science at UNISA
 
 - 🔭 I’m currently working on UNISA?s project
 - 🌱 I’m currently learning JavaScript
